@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    width: 100%;
+    background-color: #003361;
+    color: white;
+    padding: 20px;
+}
+
+#calculator input {
+    margin: 30px;
+}
+
+#calc-actions button {
+    color: white;
+    background-color: #003361;
+    height:50px;
+    width:50px;
+    cursor:pointer;
+}
+
+section {
+    text-align: center;
+    padding: 15px;
+    border-style: solid;
+    border: #003361 2px;
+}
+
+
